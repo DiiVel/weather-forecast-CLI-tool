@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	q := "Mumbai"
+	q := "Minsk"
 
 	if len(os.Args) >= 2 {
 		q = os.Args[1]
